@@ -1,3 +1,12 @@
 /ai
 PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 *.whl
+/Prep
+/Prep/Lib
+# /ExamPrep/quiz/migrations
+/ExamPrep/db.sqlite3
+__pycache__/
+**/__pycache__/  
+# *.pyc
+quiz/migrations
+*/_init_.py
